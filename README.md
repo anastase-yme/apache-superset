@@ -1,4 +1,4 @@
-#**Установка** **Docker, Docker-compose, Apache Superset, Postgres, Pgadmin**
+##**Установка** **Docker, Docker-compose, Apache Superset, Postgres, Pgadmin**
 
 **1.** **Установка** **Docker, Docker-compose**
 
